@@ -1,0 +1,2 @@
+Erick;Rua A;123;erick@erick
+Pedro;Rua B;567;pedro@pedro

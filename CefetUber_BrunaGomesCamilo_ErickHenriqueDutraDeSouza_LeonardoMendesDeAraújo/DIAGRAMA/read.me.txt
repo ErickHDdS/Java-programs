@@ -1,0 +1,7 @@
+ALUNOS PARTICIPANTES:
+
+BRUNA GOMES CAMILO
+ERICK HENRIQUE DUTRA DE SOUZA
+LEONARDO MENDES DE ARAÚJO
+
+Diagrama UML também está na pasta, em formatos PDF e XMI, feitos via software UMBRELLO 2.32.0.
